@@ -1,6 +1,6 @@
 **Pós Graduação PUC/RJ BI-Master - Março de 2021**
 
-**Trabalho da Cadeira BI: ** Previsão de vendas para uma empresa varejista de calçados
+**Trabalho da Cadeira BI:** Previsão de vendas para uma empresa varejista de calçados
 
 Objetivos:
 
