@@ -1,0 +1,12 @@
+~$*
+Untitled*
+*-checkpoint.ipynb
+*.zip
+*.gz
+*.tar
+*.tsv
+*.spacy
+*.json
+dump_dw.sql
+*.architect~
+base-original/export_20210116.sql
